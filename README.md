@@ -142,10 +142,10 @@ A responsive React weather application with real-time weather data fetching, bea
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=acemaster27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
+<img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=acemaster27&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acemaster27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="40%" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -155,7 +155,7 @@ A responsive React weather application with real-time weather data fetching, bea
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acemaster27&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=acemaster27&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
