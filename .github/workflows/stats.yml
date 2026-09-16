@@ -1,5 +1,9 @@
 # Generates GitHub Stats and Top Languages SVG cards via GitHub Actions
 # These are committed to the repo so they always render reliably on the profile
+#
+# IMPORTANT: This workflow requires a Personal Access Token (PAT) stored as
+# a repository secret named GH_README_TOKEN. Create a classic PAT at:
+# https://github.com/settings/tokens with 'read:user' and 'repo' scopes.
 
 name: Update README Stats Cards
 
@@ -32,7 +36,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_README_TOKEN }}
 
       # Generate the Top Languages card
       - name: Generate Top Languages Card
@@ -41,7 +45,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_README_TOKEN }}
 
       # Commit and push the generated SVGs
       - name: Commit Stats Cards

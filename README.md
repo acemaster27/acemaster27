@@ -1,8 +1,10 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Yash%20Kapoor&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Microservices%20Architect&descSize=18&descAlignY=55&animation=fadeIn"/>
+
 <!-- Dynamic Typing SVG -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Yash+Kapoor;Backend+Engineer+%7C+Microservices+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Distributed+Systems;%F0%9F%90%B3+Docker+%7C+%E2%98%B8+Kubernetes+%7C+%E2%9A%A1+Redis+%7C+%F0%9F%A4%96+GenAI)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/yash-kapoor-a17026251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,16 +26,27 @@ const yash = {
   pronouns: "he" | "him",
   location: "Ranchi, Jharkhand 🇮🇳",
   education: "B.Tech CSE (DS & AI) @ IIIT Ranchi | CGPA: 8.94",
-  currentFocus: "Microservices Architecture & Distributed Systems",
+  currentFocus: "Microservices Architecture & GenAI/RAG Pipelines",
+  techStack: ["Node.js", "Docker", "Kubernetes", "LangChain", "Redis"],
   funFact:
-    "I've solved 300+ DSA problems and I'm a 2-Star Coder on CodeChef! ⭐⭐",
+    "I've solved 400+ DSA problems and I'm a 3-Star Coder on CodeChef! ⭐⭐⭐",
 };
 ```
 
 - 🔭 Currently building **scalable backend systems** with Node.js, Docker & Kubernetes
-- 🌱 Exploring **distributed systems**, **event-driven architectures**, and **stream processing**
-- 💬 Ask me about **REST APIs, Microservices, Producer-Consumer Queues, Docker, Kubernetes**
+- 🤖 Exploring **Generative AI**, **LangChain**, and **RAG pipelines**
+- 🌱 Deep-diving into **distributed systems**, **event-driven architectures**, and **stream processing**
+- 💬 Ask me about **REST APIs, Microservices, Producer-Consumer Queues, Docker, Kubernetes, GenAI**
 - ⚡ I love turning complex backend problems into elegant, containerized solutions
+
+---
+
+## ⚡ What I'm Up To
+
+- 🔨 Building **MiniLog Intelligence** — real-time log analysis with microservices
+- 🤖 Experimenting with **LangChain + RAG** for intelligent document processing
+- 📚 Learning **System Design** & **Distributed Consensus Algorithms**
+- 🎯 2025 Goals: Contribute to Open Source & hit 500+ DSA problems
 
 ---
 
@@ -43,39 +56,27 @@ const yash = {
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=js,java,cpp,py,c,html,css&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### AI / GenAI
+
+![GenAI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7B61FF?style=for-the-badge&logo=semanticscholar&logoColor=white)
 
 ### Databases & Caching
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark)](https://skillicons.dev)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,terraform,ansible,vercel,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -151,16 +152,6 @@ A responsive React weather application with real-time weather data fetching, bea
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=acemaster27&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -175,16 +166,22 @@ A responsive React weather application with real-time weather data fetching, bea
 
 ---
 
-## 📈 Contribution Graph
+## 🤝 Connect With Me
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=acemaster27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yash-kapoor-a17026251/"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yash.kpr2708@gmail.com"><img src="https://img.shields.io/badge/Send_a_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://leetcode.com/u/acemaster27/"><img src="https://img.shields.io/badge/Solve_Together-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 _"First, solve the problem. Then, write the code."_ — John Johnson
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer"/>
 
 </div>
